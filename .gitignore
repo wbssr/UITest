@@ -1,0 +1,18 @@
+# pytest 缓存和报告资源
+.pytest_cache/
+assets/
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 测试报告
+*.html
+
+# 截图目录（本地生成，不提交）
+screenshot/
+
+# 本地配置文件
+config.ini
+
+.idea/
